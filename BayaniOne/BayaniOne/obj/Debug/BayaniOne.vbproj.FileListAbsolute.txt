@@ -1,0 +1,8 @@
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\bin\BayaniOne.dll
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\bin\BayaniOne.pdb
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\bin\BayaniOne.xml
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\obj\Debug\BayaniOne.Resources.resources
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\obj\Debug\BayaniOne.vbproj.GenerateResource.Cache
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\obj\Debug\BayaniOne.dll
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\obj\Debug\BayaniOne.xml
+C:\Users\Skinny Panda\Documents\BayaniOne\BayaniOne\obj\Debug\BayaniOne.pdb
